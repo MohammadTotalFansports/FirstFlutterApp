@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// This calss is to configure how the buttons will be Displayed
 class AnswerButton extends StatelessWidget {
   const AnswerButton({
     super.key,
